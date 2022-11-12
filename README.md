@@ -3,7 +3,7 @@
 
 这是一个开源的；基于arduino；改自yltzdhbc https://github.com/yltzdhbc/FloewrCareSys 的flower care sys项目，基于blinker物联网平台；使用3D打印制作的一个浇花系统；
 
-![dee8e35c2b8c08dbb9b8b0535c585de](\image\dee8e35c2b8c08dbb9b8b0535c585de.jpg)
+![dee8e35c2b8c08dbb9b8b0535c585de](https://github.com/ayuyumao/Flower_Care_Sys/tree/main/image)
 
 ## 零件清单
 
