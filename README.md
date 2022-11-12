@@ -1,9 +1,9 @@
 # Flower_Care_Sys
 基于arduino的物联网植物养护系统
 
-这是一个开源的；基于arduino；改自yltzdhbc大佬https://github.com/yltzdhbc/FloewrCareSys 的flower care sys项目，基于blinker物联网平台；使用3D打印制作的一个浇花系统；
+这是一个开源的；基于arduino；改自yltzdhbc https://github.com/yltzdhbc/FloewrCareSys 的flower care sys项目，基于blinker物联网平台；使用3D打印制作的一个浇花系统；
 
-![dee8e35c2b8c08dbb9b8b0535c585de](D:\GitHub\Flower_Care_Sys\image\dee8e35c2b8c08dbb9b8b0535c585de.jpg)
+![dee8e35c2b8c08dbb9b8b0535c585de](\image\dee8e35c2b8c08dbb9b8b0535c585de.jpg)
 
 ## 零件清单
 
@@ -49,7 +49,7 @@
 
 APP界面先打开你接入的开发板界面，点击右上的圆里三个点的图标，点击界面配置，把APP界面文件里面的字符复制粘贴进去，点更新配置就行了
 
-![5c4d4d6fc2615cfc313afc1930a4258](D:\GitHub\Flower_Care_Sys\image\5c4d4d6fc2615cfc313afc1930a4258.jpg)
+![5c4d4d6fc2615cfc313afc1930a4258](\image\5c4d4d6fc2615cfc313afc1930a4258.jpg)
 
 ## 硬件电路
 
