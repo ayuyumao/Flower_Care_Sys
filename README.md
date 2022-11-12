@@ -1,7 +1,7 @@
 # Flower_Care_Sys
 基于arduino的物联网植物养护系统
 
-这是一个开源的；基于arduino；改自yltzdhbc大佬https://github.com/yltzdhbc/FloewrCareSys的flower care sys项目，基于blinker物联网平台；使用3D打印制作的一个浇花系统；
+这是一个开源的；基于arduino；改自yltzdhbc大佬https://github.com/yltzdhbc/FloewrCareSys 的flower care sys项目，基于blinker物联网平台；使用3D打印制作的一个浇花系统；
 
 ![dee8e35c2b8c08dbb9b8b0535c585de](D:\GitHub\Flower_Care_Sys\image\dee8e35c2b8c08dbb9b8b0535c585de.jpg)
 
