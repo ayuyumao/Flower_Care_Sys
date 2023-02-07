@@ -35,7 +35,7 @@
 
 值得注意的是 ，必须先安装esp8266扩展，下载blinker库，下载u8g2库（OLED驱动），才能够正常编译
 
-在U8g2\src\clib里面找到u8g2_fonts.c文件将其替换为此项目上传的u8g2_fonts.c文件
+在字库里面找到u8g2_fonts.c文件将其替换为此项目上传的u8g2_fonts.c文件
 
 接入流程 
 
